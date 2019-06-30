@@ -1,4 +1,5 @@
 # hello-world
-First Repository
-
-Changed in the readme-edits branch...
+Configuration Files 
+1. Gitignore
+2. tsconfig
+3. ts-lint
